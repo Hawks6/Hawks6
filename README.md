@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hawks6
 - 👀 I’m interested in artificial intelligence and machine learning
-- 🌱 I’m currently learning Tensorflow, Nueral networks,OpenCV
+- 🌱 I’m currently learning Tensorflow, Neural networks,OpenCV
 - 💞️ I’m looking to collaborate on open source ml projects
 - 📫 How to reach me ...
 
