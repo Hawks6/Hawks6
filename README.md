@@ -1,24 +1,27 @@
 # 👋 Hi, I’m G Praveen (@Hawks6)
 
 ### 🚀 Tech Consultant | AI & ML Enthusiast
-I am a Consultant at **EY GDS**, focused on delivering enterprise solutions while exploring the frontiers of **Artificial Intelligence** and **Machine Learning**.
+I'm a Tech Consultant at **EY GDS**, bridging the gap between enterprise strategy and cutting-edge technical implementation. I spend my time building scalable systems and teaching machines how to see and think.
 
 ---
 
-### 🛠️ Tech Stack & Interests
+### 🛠️ Tech Stack: The Toolkit
 
-- **AI/ML Focus:** Currently diving deep into **TensorFlow**, **Neural Networks**, and **Computer Vision (OpenCV)**.
-- **Web & Backend:** Building with **Python**, **Redis**, and **Docker** for scalable applications.
-- **Mobile Development:** Exploring **SwiftUI** and **Xcode**.
-- **Data & Strategy:** Proficient in **Excel** (Data Analysis), **PowerPoint**, and **Business Etiquette**.
-- **DevOps:** Leveraging **GitHub** for version control and collaborative development.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Artificial Intelligence** | TensorFlow • OpenCV • Neural Networks • Data Science |
+| **Backend & Infra** | Python • Redis • Docker • CLI Mastery |
+| **Mobile & Design** | SwiftUI • Xcode • PowerPoint Design |
+| **Data & Analysis** | Advanced Excel (What-If Analysis) • Analytical Modeling |
 
 ---
 
-### 🌱 Current Learning Path
-- 🧠 Advancing my knowledge in **Deep Learning architectures**.
-- 🛠️ Implementing **Redis caching** and **Dockerized environments** in my personal projects.
-- 📉 Enhancing data visualization and "What-If" analysis techniques.
+### 🌊 In the Lab (Current Learning Path)
+
+* **Computer Vision Mastery:** Moving beyond basics with **OpenCV** to build real-time image processing pipelines.
+* **Deep Learning Architectures:** Deep-diving into **TensorFlow** to design and train custom neural networks.
+* **High-Performance Systems:** Refining my **Redis** caching strategies and **Docker** orchestration for production-ready apps.
+* **iOS Innovation:** Crafting intuitive, declarative UIs using **SwiftUI**.
 
 ---
 
@@ -34,8 +37,8 @@ I am actively looking to collaborate on **Open Source Machine Learning projects*
 ---
 
 ### 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
+- **LinkedIn:** 
+- **Email:** gpraveen.dev2003@gmail.com
 - **Location:** Bengaluru, India 📍
 
 ---
