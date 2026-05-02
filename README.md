@@ -1,4 +1,4 @@
-# 👋 Hi, I’m G Praveen (@Hawks6)
+# 👋 Hi, I’m Praveen (@Hawks6)
 
 ### 🚀 Tech Consultant | AI & ML Enthusiast
 I'm a Tech Consultant at **EY GDS**, bridging the gap between enterprise strategy and cutting-edge technical implementation. I spend my time building scalable systems and teaching machines how to see and think.
